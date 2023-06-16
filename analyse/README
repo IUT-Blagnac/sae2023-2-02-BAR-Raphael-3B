@@ -1,0 +1,16 @@
+Afin de tester, récupérer :
+
+Pour un programme en C :
+	- test.c
+
+Placer test.c dans la même directory que exercice.c et exercice.h
+Compiler
+
+
+Pour un programme JAVA :
+	- ExerciceTest.java
+	- Main.java
+
+Placer Main.java dans le même package que Exercice.java,
+Compiler avec java 20 pour lancer les tests de rapidité
+Exécuter ExerciceTest.java comme test junit pour obtenir les résultats des tests.
